@@ -1,4 +1,4 @@
-# get_next_line
+# get next line
 
 This was my 3rd project on Codam.
 
@@ -14,6 +14,8 @@ git clone the project.
 
 In each folder there is a makefile to compile the executable.
 
-to compile type in make in the directory where the makefile is in the terminal.
+To compile type in make in the directory where the makefile is in the terminal.
 
-then compile the exectuable with the test files which are a directory above.
+Then compile the exectuable with the test files which are a directory above.
+
+The assignment is in the root of this project.
